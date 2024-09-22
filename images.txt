@@ -8,6 +8,7 @@
 # 3、支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-# 自定
+# 自定义
 docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
 docker.io/flannel/flannel:v0.25.6
+docker.io/redis:5.0.14
