@@ -12,3 +12,4 @@
 docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
 docker.io/flannel/flannel:v0.25.6
 docker.io/redis:5.0.14
+docker.io/postgres:14
