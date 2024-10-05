@@ -13,8 +13,9 @@ nginx
 docker.io/alpine:latest
 docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
 docker.io/flannel/flannel:v0.25.6
-docker.io/redis:5.0.14
-docker.io/postgres:14
 
+# immich
 ghcr.io/immich-app/immich-server:v1.116.2
 ghcr.io/immich-app/immich-machine-learning:v1.116.2
+docker.io/redis:6.2-alpine
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
