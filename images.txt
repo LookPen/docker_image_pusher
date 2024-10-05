@@ -9,6 +9,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # 自定义
+nginx
 docker.io/alpine:latest
 docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
 docker.io/flannel/flannel:v0.25.6
