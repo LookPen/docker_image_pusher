@@ -23,3 +23,6 @@ ghcr.io/immich-app/immich-server:v1.116.2
 ghcr.io/immich-app/immich-machine-learning:v1.116.2
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
+
+# rustdesk(国内阿里云镜像版本太老，所以还是用官网的)
+rustdesk/rustdesk-server
