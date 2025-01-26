@@ -8,9 +8,7 @@
 # 3、支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-# 自定义
-nginx
-docker.io/alpine:latest
+# K8S
 docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
 docker.io/flannel/flannel:v0.25.6
 docker.io/calico/cni:v3.20.6
@@ -26,3 +24,8 @@ docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 
 # rustdesk(国内阿里云镜像版本太老，所以还是用官网的)
 rustdesk/rustdesk-server
+
+# 其他
+nginx
+docker.io/alpine:latest
+v2fly/v2fly-core
