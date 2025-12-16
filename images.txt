@@ -35,9 +35,11 @@
 # edwardelric233/ragflow:oc9
 
 # open-webui
-ghcr.io/open-webui/open-webui:cuda
+# ghcr.io/open-webui/open-webui:cuda
 
 # 其他
 # nginx
 # docker.io/alpine:latest
 # v2fly/v2fly-core
+
+python:3.9-slim
