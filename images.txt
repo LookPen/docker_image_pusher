@@ -42,4 +42,5 @@
 # docker.io/alpine:latest
 # v2fly/v2fly-core
 
-python:3.9-slim
+# python:3.9-slim
+mysql:5.7
