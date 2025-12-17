@@ -43,6 +43,7 @@
 # v2fly/v2fly-core
 
 # python:3.9-slim
+python:3.9
 # mysql:5.7
 # gitlab/gitlab-ce
-gitlab/gitlab-runner
+# gitlab/gitlab-runner
